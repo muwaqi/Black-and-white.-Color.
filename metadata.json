@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Colorizer",
+  "description": "An AI-powered web application that transforms black and white photos into vibrant, full-color images using the Gemini API. Users can upload a photo, select a colorization style, and download the result.",
+  "requestFramePermissions": []
+}
